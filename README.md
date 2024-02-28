@@ -26,7 +26,9 @@
   ### 🤪 About me :
 
 - ✈️ I’m currently working on aircraft.
-- 🌱 Since June 2023, I'm learning a few languages on my own to help maintain the Openboard application.
+- 🌱 Since June 2023, I have been learning a few languages on my own.
+This allowed me to do many PRs for Openboard (now known as Heliboard).
+I hope in the future to work on other projects like for example the AOSP clock or others.
 - ✨ My motto : <i>Only those who persevere succeed.</i>
 
 </div>
