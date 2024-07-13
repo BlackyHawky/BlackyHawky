@@ -27,7 +27,7 @@
 
 - ✈️ I’m currently working on aircraft.
 - 🌱 Since June 2023, I have been learning a few languages on my own.
-This allowed me to do many PRs for Openboard (now known as Heliboard).
+This allowed me to do many PRs for Openboard (now known as [Heliboard](https://github.com/Helium314/HeliBoard)).
 I hope in the future to work on other projects like for example the [AOSP clock](https://github.com/BlackyHawky/Clock) or others.
 - ✨ My motto : <i>Only those who persevere succeed.</i>
 
