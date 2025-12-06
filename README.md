@@ -6,13 +6,8 @@
 
 <div id="badges" align="center">
   
-  <a href="mailto:blackyhawky@protonmail.com">
-    <img width=150 src="https://img.shields.io/badge/To Reach Me-blue?logo=protonmail&logoColor=white&style=for-the-badge" />
-  </a>
-  
-  <a>
-    <img width=165 src="https://komarev.com/ghpvc/?username=BlackyHawky&style=for-the-badge&color=blue" alt=""/>
-  </a>
+  [![To Reach Me](https://img.shields.io/badge/To%20Reach%20Me-blue?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:blackyhawky@protonmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=BlackyHawky&style=for-the-badge&color=blue)
   
   <h1 align="center">
     Hey there
@@ -27,7 +22,7 @@
 
 - ✈️ I’m currently working on aircraft.
 - 🌱 Since June 2023, I have been learning a few languages on my own.
-This allowed me to do many PRs for Openboard (now known as [Heliboard](https://github.com/Helium314/HeliBoard)).
+This allowed me to do many PRs for Openboard (now known as [Heliboard](https://github.com/Helium314/HeliBoard)).  
 I hope in the future to work on other projects like for example the [AOSP clock](https://github.com/BlackyHawky/Clock) or others.
 - ✨ My motto : <i>Only those who persevere succeed.</i>
 
